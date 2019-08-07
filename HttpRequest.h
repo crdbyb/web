@@ -1,7 +1,6 @@
 /**
  * 主状态机，定义变量，从状态机处理在HttpParse.cpp 内
  */
-#pragma once
 
 #include <iostream>
 #include <unordered_map>

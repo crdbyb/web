@@ -6,7 +6,6 @@
 
 #include "CommonHead.h"
 
-#pragma once
 class ClientSocket;
 
 class ServerSocket

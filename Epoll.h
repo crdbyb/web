@@ -2,8 +2,6 @@
  * Epoll类的封装:
  * 因为Epoll内核句柄只有一个，所以这是一个工具类，单例或者静态，这里选择静态
  */
-
-#pragma once
 #include <memory>
 #include <vector>
 #include <unordered_map>

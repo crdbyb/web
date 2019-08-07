@@ -4,7 +4,6 @@
  * 由定时器节点类，通过定时器管理（堆）类管理
  */
 
-#pragma once
 #include <queue>
 #include <deque>
 #include "HttpData.h"

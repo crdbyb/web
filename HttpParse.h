@@ -2,8 +2,6 @@
  * 从状态机：负责解析HTTP请求字段
  */
 
-#pragma once
-
 #include <string>
 #include <unordered_map>
 #include <iostream>
